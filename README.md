@@ -1,6 +1,6 @@
-<h1 align=center>Hi there👋, my name is Cristian</h1>
+<h1 align='center'>Hi there👋, my name is Cristian</h1>
 
-<p align=center>I'm a python back-end developer from Meta, Colombia 🟨🟦🟥.</p>
+<p align='center'>I'm a python back-end developer from Meta, Colombia 🟨🟦🟥.</p>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/cristianhdz90/">
@@ -13,6 +13,8 @@
 
 <p align='center'>I love to create things with code 👨‍💻, that's why I keep learning every single day <br/>
   about back-end development and English language 🐱‍🏍.</p><br/>
+  
+<p align='center'>🐱‍💻Open to work: <a href="mailto:hernandezcamilo063@gmail.com">hernandezcamilo063@gmail.com </a></p>
 
 <h3 align='center'>Technologies with which I'm currently developing</h3><br/>
 
@@ -41,7 +43,8 @@
 [Todo App](https://github.com/CristianHdz90/todo_app) (Python app)
 
 ---
-[More about CristianHzd90](https://linktr.ee/CristianHdz90)
+### About me
+[More about me](https://linktr.ee/CristianHdz90)
 
 
 
