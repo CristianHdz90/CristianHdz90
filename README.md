@@ -41,6 +41,7 @@
 ---
 ### Projects
 [Todo App](https://github.com/CristianHdz90/todo_app) (Python app)
+[Fumi App](https://github.com/CristianHdz90/fumi_app) (Python app)
 
 ---
 ### About me
