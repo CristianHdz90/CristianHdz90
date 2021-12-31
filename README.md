@@ -33,10 +33,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-#### Database:
-* Firestore (From G.C.P)
-
 #### Others:
+* SQLAlchemy
+* Firestore (From G.C.P)
 * WSL
 
 ---
