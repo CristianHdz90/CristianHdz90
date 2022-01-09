@@ -6,15 +6,12 @@
   <a href="https://www.linkedin.com/in/cristianhdz90/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/cristianhdz90/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;&nbsp;
 </div>
 
 <p align='center'>I love to create things with code 👨‍💻, that's why I keep learning every single day <br/>
   about back-end development and English language 🐱‍🏍.</p><br/>
   
-<p align='center'>🐱‍💻Open to work: <a href="mailto:hernandezcamilo063@gmail.com">hernandezcamilo063@gmail.com </a></p>
+<p align='center'>🐱‍💻Open to work: <a href="mailto:cristianhernandez.dev@gmail.com">cristianhernandez.dev@gmail.com </a></p>
 
 <h3 align='center'>Technologies with which I'm currently developing</h3><br/>
 
