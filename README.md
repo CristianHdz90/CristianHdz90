@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there👋, my name is Cristian</h1>
 
-<p align='center'>I'm a python back-end developer from Meta, Colombia 🟨🟦🟥.</p>
+<p align='center'>I'm a Python Back-end Developer from Meta, Colombia 🟨🟦🟥.</p>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/cristianhdz90/">
@@ -17,6 +17,7 @@
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
