@@ -13,11 +13,12 @@
   
 <p align='center'>🐱‍💻Open to work: <a href="mailto:cristianhernandez.dev@gmail.com">cristianhernandez.dev@gmail.com </a></p>
 
-<h3 align='center'>Technologies with which I'm currently developing</h3><br/>
+<h3 align='center'>My technologies and tools</h3><br/>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -32,6 +33,7 @@
 </p>
 
 #### Others:
+* JavaScript (Novice)
 * SQLAlchemy
 * Firestore (From G.C.P)
 * WSL
