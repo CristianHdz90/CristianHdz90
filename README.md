@@ -29,9 +29,9 @@ I specialize in DevOps and Cloud Infrastructure.</p>
 
 ---
 ### Projects
-Terraform Automation (Python app)
+Terraform Automation 
 
-Jenkins Complex Pipeline (Python app)
+Jenkins Complex Pipeline
 
 ---
 ### About me
