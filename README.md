@@ -41,6 +41,11 @@ I specialize in DevOps and Cloud Infrastructure.</p>
     <td><img width="25" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></td>
   </tr>
   <tr>
+    <td><strong>Cloud Provider</strong></td>
+    <td>AWS</td>
+    <td><img width="25" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></td>
+  </tr>
+  <tr>
     <td><strong>CI/CD</strong></td>
     <td>Jenkins, GitHub Actions</td>
     <td><img width="25" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/></td>
@@ -59,11 +64,6 @@ I specialize in DevOps and Cloud Infrastructure.</p>
     <td><strong>IaC</strong></td>
     <td>Terraform</td>
     <td><img width="25" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/></td>
-  </tr>
-  <tr>
-    <td><strong>Cloud Provider</strong></td>
-    <td>AWS</td>
-    <td><img width="25" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></td>
   </tr>
   <tr>
     <td><strong>Configuration Management (CM)</strong></td>
