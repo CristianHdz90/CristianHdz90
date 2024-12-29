@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there👋, my name is Cristian</h1>
 
-<p align='center'>I'm a DevOps Engineer from Meta, Colombia 🟨🟦🟥.</p>
+<p align='center'>I'm a DevOps Engineer from Colombia 🟨🟦🟥.</p>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/chrisheram/">
