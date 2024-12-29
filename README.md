@@ -2,19 +2,21 @@
 
 <p align='center'>I'm a DevOps Engineer from Colombia 🟨🟦🟥.</p>
 
-<div align='center'>
-  <a href="https://www.linkedin.com/in/chrisheram/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
-</div>
 
 <p align='center'>I am passionate about technology, particularly in process automation. </br>
 I specialize in DevOps and Cloud Infrastructure.</p>
-  
-<p align='center'>🐱‍💻Open to work: <a href="mailto:cristianhernandez.dev@gmail.com">cristianhernandez.dev@gmail.com </a></p>
+
+
+<p align='center'>Email: <a href="mailto:cristianhernandez.dev@gmail.com">cristianhernandez.dev@gmail.com </a></p>
+<p align='center'>Connect with me on LinkedIn:
+  <a href="https://www.linkedin.com/in/chrisheram/">
+    <strong>@chrisreram</strong>
+  </a>
+</p>
+
+</br></br>
 
 <h3 align='center'>My Tech Stack</h3><br/>
-
 
 
 <table border="1" align="center">
@@ -73,14 +75,14 @@ I specialize in DevOps and Cloud Infrastructure.</p>
     <td>ChatGPT, GitHub Copilot</td>
     <td> <img width="25" src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" /></td>
   </tr>
-</table>
+</table> </br></br>
 
 
 
 ---
-### Projects
-Terraform Automation 
+### My Public Projects:
 
+Terraform Automation
 Jenkins Complex Pipeline
 
 ---
