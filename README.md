@@ -10,7 +10,7 @@ I specialize in DevOps and Cloud Infrastructure.</p>
 <p align='center'>Email: <a href="mailto:cristianhernandez.dev@gmail.com">cristianhernandez.dev@gmail.com </a></p>
 <p align='center'>Connect with me on LinkedIn:
   <a href="https://www.linkedin.com/in/chrisheram/">
-    <strong>@chrisreram</strong>
+    <strong>@chrisheram</strong>
   </a>
 </p>
 
